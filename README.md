@@ -16,7 +16,7 @@ Full-stack food delivery application with authentication, cart,
 payments, image uploads, and admin functionality.
 
 **Tech:** React, TypeScript, Node.js, Express, MongoDB
-[Live Demo](#https://food-loop-frontend-black.vercel.app/)
+[Live Demo](https://food-loop-frontend-black.vercel.app/)
 
 ### Currently Learning
 - Docker
