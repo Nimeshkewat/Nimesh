@@ -1,6 +1,7 @@
 # Hi, I'm Nimesh
 
 ### Full-Stack Developer
+
 I build full-stack web applications using modern JavaScript/TypeScript technologies.
 
 ### Tech Stack
@@ -15,7 +16,8 @@ I build full-stack web applications using modern JavaScript/TypeScript technolog
 Full-stack food delivery application with authentication, cart,
 payments, image uploads, and admin functionality.
 
-**Tech:** React, TypeScript, Node.js, Express, MongoDB
+**Tech:** React, TypeScript, Node.js, Express, MongoDB]
+
 [Live Demo](https://food-loop-frontend-black.vercel.app/)
 
 ### Currently Learning
@@ -25,4 +27,5 @@ payments, image uploads, and admin functionality.
 - Advanced TypeScript
 
 ### Connect With Me
+
 - Email: [nimeshwork529@gmail.com]
